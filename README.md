@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any queries, feel free to reach out:
  insta: puitc.rp
  📧 Email: seksan1467@gmail.com  
-🐙 GitHub: [your-github-profile]((https://github.com/puicoding555))
+🐙 GitHub: [puicoding555]((https://github.com/puicoding555))
