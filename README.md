@@ -39,9 +39,9 @@ Each folder contains implementations, explanations, and test cases for the respe
    cd Data-Structure-and-Algorithms
    ```
 3. Run the implementations:
-   - For Python:
+   - For Java:
      ```bash
-     python3 filename.py
+     Javac filename.java
      ```
    - For C++:
      ```bash
