@@ -32,7 +32,7 @@ Each folder contains implementations, explanations, and test cases for the respe
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Structure-and-Algorithms.git
+   git clone https://github.com/puicoding555/Data-Structure-and-Algorithms.git
    ```
 2. Navigate to the folder:
    ```bash
@@ -47,22 +47,8 @@ Each folder contains implementations, explanations, and test cases for the respe
      ```bash
      g++ filename.cpp -o output && ./output
      ```
-
-## 📘 Contributing
-We welcome contributions! If you would like to contribute:
-1. Fork this repository.
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Push to your fork.
-5. Open a pull request.
-
-## 🛠️ Technologies Used
-- Python 🐍
-- C++ 🚀
+##Language using
 - Java ☕
-
-## 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 🎯 Contact
 For any queries, feel free to reach out:
