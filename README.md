@@ -8,17 +8,29 @@ The repository is organized as follo
 
 📦 Data-Structure-and-Algorithms
  ┣ 📁 Lab1
+ 
  ┣ 📁 Lab2 Arr Hashset
+ 
  ┣ 📁 Lab3 Search Hash
+ 
  ┣ 📁 Lab4 Sorting
+ 
  ┣ 📁 Lab5 ArrCollection
+ 
  ┣ 📁 Lab6 LinkedCollection
+ 
  ┣ 📁 Lab7 Stack
+ 
  ┣ 📁 Lab8 Stack Calculator
+ 
  ┣ 📁 Lab9 MyQueue + BFS
+ 
  ┣ 📁 Lab10 BT + Binary Search Tree
+ 
  ┣ 📁 Lab11 BST + AVL
+ 
  ┗ 📜 README.md
+ 
 
 ##Language using
 - Java ☕
